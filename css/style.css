@@ -31,7 +31,7 @@ html {
   width: 100%;
 }
 
-.container {
+//*.container {
  margin: auto;
  padding: 10px;
 }
@@ -134,3 +134,4 @@ footerWrap {
 p, h4 {
  font-family: "rounded-mgenplus-2cp-regular";
 }
+*/
