@@ -12,6 +12,10 @@ html {
 }
 
 .header {
+  width: 100%;
+}
+
+.wrapper {
   width: 970px;
   margin: 30px, auto, 40px;
 }
