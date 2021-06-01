@@ -11,6 +11,26 @@ html {
  font-style: normal;
 }
 
+.header {
+  width: 970px;
+  margin: 30px, auto, 40px;
+}
+
+.main {
+  diplay: block;
+  float: left;
+  width: 660px;
+}
+
+.sidemenu {
+  float: left;
+  width: 275px;
+}
+
+.footer {
+  width: 100%;
+}
+
 .container {
  margin: auto;
  padding: 10px;
